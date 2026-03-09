@@ -61,15 +61,15 @@ The framework is built on a **9-layer architecture** designed to separate concer
 
 ```mermaid
 flowchart TD
-    A["TEST SUITES LAYER\nSmoke | Regression | Sanity"]
-    B["TEST SCENARIOS LAYER\nIndividual .yaml test cases"]
-    C["REUSABLE FLOWS LAYER\nlogin_flow · logout_flow · nav_flow"]
-    D["PAGE OBJECT LAYER\nCentralized element locators"]
-    E["TEST DATA LAYER\ndev/ · staging/ · prod/ JSON"]
-    F["CONFIGURATION LAYER\nEnvironment vars · App config"]
-    G["EXECUTION LAYER\nMaestro CLI"]
-    H["REPORTING LAYER\nAllure HTML Reports"]
-    I["DEVICE LAYER\nEmulator | Physical | BrowserStack"]
+    A["TEST SUITES LAYER Smoke | Regression | Sanity"]
+    B["TEST SCENARIOS LAYER Individual .yaml test cases"]
+    C["REUSABLE FLOWS LAYER login_flow · logout_flow · nav_flow"]
+    D["PAGE OBJECT LAYER Centralized element locators"]
+    E["TEST DATA LAYER dev/ · staging/ · prod/ JSON"]
+    F["CONFIGURATION LAYER Environment vars · App config"]
+    G["EXECUTION LAYER Maestro CLI"]
+    H["REPORTING LAYER Allure HTML Reports"]
+    I["DEVICE LAYER Emulator | Physical | BrowserStack"]
 
     A --> B --> C --> D
     C --> E
