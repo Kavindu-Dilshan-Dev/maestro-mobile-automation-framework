@@ -112,6 +112,14 @@ flowchart TD
 
 ---
 
+<img width="2360" height="1144" alt="diagram-export-3-9-2026-9_26_11-AM" src="https://github.com/user-attachments/assets/256b317a-e5c4-4004-b2be-58cefb5792f2" />
+
+---
+## Software architecture diagram for a Mobile QA Automation Framework built using Maestro
+
+
+
+---
 ## 📁 Project Folder Structure
 
 ```
@@ -831,7 +839,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👤 Author
 
-**[Kavindu Dilshan]** — QA Automation Engineer
+**[ Kavindu Dilshan ]** — QA Automation Intern
 
 - LinkedIn: [https://www.linkedin.com/in/kavindu-dilshan-475297287/]
 - GitHub: [https://github.com/Kavindu-Dilshan-Dev]
