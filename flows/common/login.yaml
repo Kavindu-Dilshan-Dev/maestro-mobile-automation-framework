@@ -1,0 +1,4 @@
+appId: com.ndb.mobilebanking
+---
+- launchApp:
+    clearState: true
